@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "letmeask-fa4a9",
-    "n": "letmeask-fa4a9"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "letmeask-fa4a9"
+  }
 }
