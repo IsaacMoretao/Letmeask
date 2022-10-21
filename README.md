@@ -2,8 +2,12 @@
 ﻿<h1 align="center">
   Letmeask
 </h1>
+  
+<h1 align="center">
 
-<img src='./src/assets/images/logo.svg' align="center"/>
+  <img alt="letmeask" src='./src/assets/images/logo.svg' align="center"/>
+  
+</h1>
 
 <p align="center">
   <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
