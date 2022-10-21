@@ -3,7 +3,7 @@
   Letmeask
 </h1>
 
-<img src='./src/Assets/SiteWeb.png' />
+<img src='./src/assets/SiteWeb.png' />
 
 <p align="center">
   This is a study project, which was put together by rocketseat, made by me, <br />
