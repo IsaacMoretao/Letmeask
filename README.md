@@ -1,13 +1,10 @@
+<h1 align="center" border="none">
 
-﻿<h1 align="center">
-  Letmeask
-</h1>
-  
-<h1 align="center">
-
-  <img alt="letmeask" src='./src/assets/images/logo.svg' align="center"/>
+  <img alt="letmeask" src='./src/assets/images/logo.svg' width="420px"/>
   
 </h1>
+
+
 
 <p align="center">
   <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
