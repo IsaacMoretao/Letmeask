@@ -3,6 +3,7 @@
   Letmeask
 </h1>
 
+<<<<<<< HEAD
 <img src='./src/assets/logo.svg' />
 
 <p align="center">
