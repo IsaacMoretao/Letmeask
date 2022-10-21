@@ -3,8 +3,7 @@
   Letmeask
 </h1>
 
-<<<<<<< HEAD
-<img src='./src/assets/logo.svg' />
+<img src='./src/assets/images/logo.svg' />
 
 <p align="center">
   <img alt="Rocketseat" src="https://img.shields.io/badge/Created%20by%3A-Rocketseat-%236D5CCD" />
